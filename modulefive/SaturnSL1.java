@@ -1,5 +1,5 @@
 package modulefive;
 
-public class SaturnSL1 implements SpringHill, Sedan{
+public class SaturnSL1 extends SmallCarClass implements SpringHill, Sedan{
     
 }

@@ -1,5 +1,5 @@
 package modulefive;
 
-public class SubaruOutback implements Japanese, SportsUtilityVehicle{
+public class SubaruOutback extends SmallCarClass implements Japanese, SportsUtilityVehicle{
     
 }

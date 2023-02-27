@@ -1,5 +1,5 @@
 package modulefive;
 
-public class HondaCivic implements Japanese, Compact{
+public class HondaCivic extends SmallCarClass implements Japanese, Compact{
     
 }

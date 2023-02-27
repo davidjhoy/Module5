@@ -1,5 +1,5 @@
 package modulefive;
 
-public class ChevyS10 implements Detroit, Truck{
-    
+public class ChevyS10 extends TruckClass implements Detroit, Truck{
+   
 }
